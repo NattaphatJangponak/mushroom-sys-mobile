@@ -1,0 +1,2 @@
+C:/Users/admin/Desktop/mushroom_mobile/project_mobile/android/app/.cxx/Debug/94n2fqv5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/mushroom_mobile/project_mobile/android/app/.cxx/Debug/94n2fqv5/x86_64/CMakeFiles/rebuild_cache.dir
